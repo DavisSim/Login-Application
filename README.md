@@ -1,7 +1,9 @@
 # Login-Application
 For the login application I used reactJS for my frontend to create a very simple interface for the login page as well as the homepage upon login to show the relevant details
 I sadly could not support a second language for this application
+
 //===============================================
+
 For this application to work we have to run both the backend and frontend
 
 To run the front end we first navigate to the login-app folder
